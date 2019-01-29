@@ -19,9 +19,10 @@ Calling on all gophers in the Gauteng area!!! The Joburg Golang meetup needs you
 
 You should be able to run examples after running:
 ```
-go get github.com/eckhard-briedenhann/joburg-golang-meetup
+git clone https://github.com/eckhard-briedenhann/Joburg-Golang-Meetup $GOPATH/src/joburg-golang-meetup
 ```
-and navigating to:
+navigating to:
 ```
-cd $GOPATH/src/github.com/eckhard-briedenhann/joburg-golang-meetup/1.helloworld2019
+cd $GOPATH/src/joburg-golang-meetup/1.helloworld2019
 ```
+and reading the `README.md` files.
