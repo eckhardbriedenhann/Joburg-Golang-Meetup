@@ -23,6 +23,6 @@ git clone https://github.com/eckhard-briedenhann/Joburg-Golang-Meetup $GOPATH/sr
 ```
 navigating to:
 ```
-cd $GOPATH/src/joburg-golang-meetup/1.helloworld2019
+cd $GOPATH/src/joburg-golang-meetup/helloworld2019
 ```
 and reading the `README.md` files.
