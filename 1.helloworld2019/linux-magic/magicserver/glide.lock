@@ -1,0 +1,8 @@
+hash: 602af6c2f53a2b29f35fc6e29d7ab9b4d9dc9803f8c4c387d0bb7eac607bfe49
+updated: 2019-01-28T10:14:10.668210034+02:00
+imports:
+- name: github.com/alecthomas/template
+  version: a0175ee3bccc567396460bf5acd36800cb10c49c
+  subpackages:
+  - parse
+testImports: []
